@@ -9,14 +9,14 @@
 
 ## General info
 
-Simple nodemailer to use in future projects.
+Simple nodemailer to use in future projects. Fill the contact form with your first name, last name, email and message and hit send. Information of form will be sent to email of your choose. Submodule source code can be found [here](https://github.com/arttuhar/nodemailer-front).
 
 ## Technologies
 
 Project is made by using:
 
-- React (Source code can be found from nodemailer-front submodule)
-- Node
+- [React](https://reactjs.org)
+- [Node](https://nodejs.org/en/)
 - [Express](https://www.npmjs.com/package/express)
 - [Nodemailer](https://www.npmjs.com/package/nodemailer)
 - [Cors](https://www.npmjs.com/package/cors)
