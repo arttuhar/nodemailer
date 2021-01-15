@@ -17,8 +17,13 @@ Project is made by using:
 
 - React (Source code can be found from nodemailer-front submodule)
 - Node
-- Express
-- Nodemailer
+- [Express](https://www.npmjs.com/package/express)
+- [Nodemailer](https://www.npmjs.com/package/nodemailer)
+- [Cors](https://www.npmjs.com/package/cors)
+- [Body-parser](https://www.npmjs.com/package/body-parser)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [Concurrently](https://www.npmjs.com/package/concurrently)
+- [Axios](https://www.npmjs.com/package/axios)
 
 ## Project status
 
